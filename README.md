@@ -1,7 +1,7 @@
 # com.caveup.shell
 shell library and tools
 
-#功能介绍
+# 功能介绍
 
-##merge
+## merge
 > 大文件切割和合并
